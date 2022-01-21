@@ -38,19 +38,19 @@
 ## Stats 📈
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlenaTsemko&hide_border=true&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mona-Lisa-Dev&hide_border=true&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="top languages" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OlenaTsemko&show_icons=true&hide_border=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="gitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Mona-Lisa-Dev&show_icons=true&hide_border=true&bg_color=0,232526,414345&icon_color=82FF99&title_color=ffffff&text_color=ffffff&line_height=20.5&v=5&count_private=true" alt="gitHub stats">
 </div>
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=OlenaTsemko.OlenaTsemko" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Mona-Lisa-Dev.Mona-Lisa-Dev" alt="visitors">
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/OlenaTsemko.svg?style=social&label=Follow&maxAge=2592000" alt="followers">
+<img src="https://img.shields.io/github/followers/Mona-Lisa-Dev.svg?style=social&label=Follow&maxAge=2592000" alt="followers">
 </div>
 
 ## Links 🔗
@@ -62,7 +62,7 @@
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/elenatsem)
 
 <!--
-**OlenaTsemko/OlenaTsemko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mona-Lisa-Dev/Mona-Lisa-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
